@@ -1,4 +1,3 @@
-```markdown
 # Budgetplaner
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Jonas-Fxl/Budgetplaner)

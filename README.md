@@ -216,4 +216,3 @@ Bei Fragen, Anregungen oder Problemen erstelle bitte ein Issue im Repository ode
 ---
 
 *Diese Dokumentation wird NICHT erweitert, da das Projekt als abgeschlossen gilt.*
-```
